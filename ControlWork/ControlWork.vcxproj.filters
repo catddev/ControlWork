@@ -19,4 +19,7 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="С_pract_ifelseswith Aikenova.docx" />
+  </ItemGroup>
 </Project>

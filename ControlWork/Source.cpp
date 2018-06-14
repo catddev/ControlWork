@@ -18,6 +18,7 @@ void main()
 
 start:
 
+
 	printf("\n\nStart!\n\n");
 	printf("Хотите стать профессиональным музыкантом?\n");
 	scanf("%d", &answer);
